@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "chuckie_pardonus",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "V/simpson/pardonUs",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "sneed",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		192,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

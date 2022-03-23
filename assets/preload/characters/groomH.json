@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "homoor_groom",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "V/simpson/groom",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "homoomor",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		192,
+		0
+	],
+	"camera_position": [
+		70,
+		135
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

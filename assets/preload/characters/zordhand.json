@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "handidle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "singLEFT",
+			"loop": true,
+			"name": "handleft"
+		},
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "singDOWN",
+			"loop": true,
+			"name": "handdown"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "singUP",
+			"loop": true,
+			"name": "handup"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "singRIGHT",
+			"loop": true,
+			"name": "handright"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/zordhand",
+	"position": [
+		-500,
+		0
+	],
+	"healthicon": "zord",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-150,
+		-80
+	],
+	"sing_duration": 10,
+	"scale": 1
+}

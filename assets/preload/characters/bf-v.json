@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				-2
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "bf_up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "bf_right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				-3
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "bf_left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "bf_idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				-2
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "bf_up_miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-13,
+				0
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "bf_down_miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				-3
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "bf_left_miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				0
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "bf_right_miss",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-13,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "bf_down0"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "bf_dead_1"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "bf_dead_3",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "bf_dead_2",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-14,
+				-19
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "dodge",
+			"loop": false,
+			"name": "bf_dodge"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Boyfriend-v",
+	"position": [
+		0,
+		520
+	],
+	"healthicon": "bf-v",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		160,
+		255
+	],
+	"camera_position": [
+		40,
+		-20
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
