@@ -1,0 +1,9 @@
+{
+	"directory": "simpson",
+	"defaultZoom": 1,
+	"isPixelStage": false,
+
+    "opponent": [-216, -85],
+	"boyfriend": [585, -50],
+	"girlfriend": [75, -15]
+}
