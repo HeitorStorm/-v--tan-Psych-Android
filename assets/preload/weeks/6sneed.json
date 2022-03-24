@@ -1,0 +1,30 @@
+{
+	"storyName": "sneed",
+	"hideFreeplay": false,
+	"weekBackground": "sneed",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"cat",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Sneed",
+			"sneed",
+			[
+				255,
+				192,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Sneed"
+}

@@ -1,0 +1,43 @@
+{
+	"storyName": "/V/-tan",
+	"hideFreeplay": false,
+	"weekBackground": "V",
+	"weekBefore": "6",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"vidyagaems",
+			"v-rage",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"sage",
+			"v-rage",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"harmony",
+			"v-calm",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week V"
+}

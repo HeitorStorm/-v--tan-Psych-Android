@@ -1,0 +1,25 @@
+{
+	"storyName": "zord",
+	"hideFreeplay": false,
+	"weekBackground": "zord",
+	"weekBefore": "6",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"nogames",
+			"zord",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "extras"
+}
