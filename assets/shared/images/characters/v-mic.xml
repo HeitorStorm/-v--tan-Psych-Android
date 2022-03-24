@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="v-mic.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="vMic_down0000" x="0" y="0" width="568" height="492"/>
+	<SubTexture name="vMic_down0001" x="0" y="0" width="568" height="492"/>
+	<SubTexture name="vMic_down0002" x="568" y="0" width="568" height="492"/>
+	<SubTexture name="vMic_down0003" x="568" y="0" width="568" height="492"/>
+	<SubTexture name="vMic_down0004" x="568" y="0" width="568" height="492"/>
+	<SubTexture name="vMic_down0005" x="568" y="0" width="568" height="492"/>
+	<SubTexture name="vMic_down0006" x="568" y="0" width="568" height="492"/>
+	<SubTexture name="vMic_down0007" x="568" y="0" width="568" height="492"/>
+	<SubTexture name="vMic_down0008" x="568" y="0" width="568" height="492"/>
+	<SubTexture name="vMic_down0009" x="568" y="0" width="568" height="492"/>
+	<SubTexture name="vMic_down0010" x="568" y="0" width="568" height="492"/>
+	<SubTexture name="vMic_down0011" x="568" y="0" width="568" height="492"/>
+	<SubTexture name="vMic_down0012" x="568" y="0" width="568" height="492"/>
+	<SubTexture name="vMic_down0013" x="568" y="0" width="568" height="492"/>
+	<SubTexture name="vMic_idle0000" x="1136" y="0" width="568" height="492"/>
+	<SubTexture name="vMic_idle0001" x="1136" y="0" width="568" height="492"/>
+	<SubTexture name="vMic_idle0002" x="1704" y="0" width="568" height="492"/>
+	<SubTexture name="vMic_idle0003" x="1704" y="0" width="568" height="492"/>
+	<SubTexture name="vMic_idle0004" x="2272" y="0" width="568" height="492"/>
+	<SubTexture name="vMic_idle0005" x="2272" y="0" width="568" height="492"/>
+	<SubTexture name="vMic_idle0006" x="2840" y="0" width="568" height="492"/>
+	<SubTexture name="vMic_idle0007" x="2840" y="0" width="568" height="492"/>
+	<SubTexture name="vMic_idle0008" x="3408" y="0" width="568" height="492"/>
+	<SubTexture name="vMic_idle0009" x="3408" y="0" width="568" height="492"/>
+	<SubTexture name="vMic_idle0010" x="3408" y="0" width="568" height="492"/>
+	<SubTexture name="vMic_idle0011" x="3408" y="0" width="568" height="492"/>
+	<SubTexture name="vMic_idle0012" x="3408" y="0" width="568" height="492"/>
+	<SubTexture name="vMic_idle0013" x="3408" y="0" width="568" height="492"/>
+	<SubTexture name="vMic_left0000" x="0" y="492" width="568" height="494"/>
+	<SubTexture name="vMic_left0001" x="0" y="492" width="568" height="494"/>
+	<SubTexture name="vMic_left0002" x="568" y="492" width="568" height="494"/>
+	<SubTexture name="vMic_left0003" x="568" y="492" width="568" height="494"/>
+	<SubTexture name="vMic_left0004" x="568" y="492" width="568" height="494"/>
+	<SubTexture name="vMic_left0005" x="568" y="492" width="568" height="494"/>
+	<SubTexture name="vMic_left0006" x="568" y="492" width="568" height="494"/>
+	<SubTexture name="vMic_left0007" x="568" y="492" width="568" height="494"/>
+	<SubTexture name="vMic_left0008" x="568" y="492" width="568" height="494"/>
+	<SubTexture name="vMic_left0009" x="568" y="492" width="568" height="494"/>
+	<SubTexture name="vMic_left0010" x="568" y="492" width="568" height="494"/>
+	<SubTexture name="vMic_left0011" x="568" y="492" width="568" height="494"/>
+	<SubTexture name="vMic_left0012" x="568" y="492" width="568" height="494"/>
+	<SubTexture name="vMic_left0013" x="568" y="492" width="568" height="494"/>
+	<SubTexture name="vMic_left0014" x="568" y="492" width="568" height="494"/>
+	<SubTexture name="vMic_look0000" x="1136" y="492" width="568" height="492"/>
+	<SubTexture name="vMic_look0001" x="1136" y="492" width="568" height="492"/>
+	<SubTexture name="vMic_look0002" x="1704" y="492" width="568" height="492"/>
+	<SubTexture name="vMic_look0003" x="1704" y="492" width="568" height="492"/>
+	<SubTexture name="vMic_look0004" x="2272" y="492" width="568" height="492"/>
+	<SubTexture name="vMic_look0005" x="2272" y="492" width="568" height="492"/>
+	<SubTexture name="vMic_look0006" x="2840" y="492" width="568" height="492"/>
+	<SubTexture name="vMic_look0007" x="2840" y="492" width="568" height="492"/>
+	<SubTexture name="vMic_look0008" x="3408" y="492" width="568" height="492"/>
+	<SubTexture name="vMic_look0009" x="3408" y="492" width="568" height="492"/>
+	<SubTexture name="vMic_look0010" x="3408" y="492" width="568" height="492"/>
+	<SubTexture name="vMic_look0011" x="3408" y="492" width="568" height="492"/>
+	<SubTexture name="vMic_look0012" x="3408" y="492" width="568" height="492"/>
+	<SubTexture name="vMic_look0013" x="3408" y="492" width="568" height="492"/>
+	<SubTexture name="vMic_right0000" x="0" y="986" width="568" height="494"/>
+	<SubTexture name="vMic_right0001" x="0" y="986" width="568" height="494"/>
+	<SubTexture name="vMic_right0002" x="568" y="986" width="568" height="492" frameX="0" frameY="-2" frameWidth="568" frameHeight="494"/>
+	<SubTexture name="vMic_right0003" x="568" y="986" width="568" height="492" frameX="0" frameY="-2" frameWidth="568" frameHeight="494"/>
+	<SubTexture name="vMic_right0004" x="568" y="986" width="568" height="492" frameX="0" frameY="-2" frameWidth="568" frameHeight="494"/>
+	<SubTexture name="vMic_right0005" x="568" y="986" width="568" height="492" frameX="0" frameY="-2" frameWidth="568" frameHeight="494"/>
+	<SubTexture name="vMic_right0006" x="568" y="986" width="568" height="492" frameX="0" frameY="-2" frameWidth="568" frameHeight="494"/>
+	<SubTexture name="vMic_right0007" x="568" y="986" width="568" height="492" frameX="0" frameY="-2" frameWidth="568" frameHeight="494"/>
+	<SubTexture name="vMic_right0008" x="568" y="986" width="568" height="492" frameX="0" frameY="-2" frameWidth="568" frameHeight="494"/>
+	<SubTexture name="vMic_right0009" x="568" y="986" width="568" height="492" frameX="0" frameY="-2" frameWidth="568" frameHeight="494"/>
+	<SubTexture name="vMic_right0010" x="568" y="986" width="568" height="492" frameX="0" frameY="-2" frameWidth="568" frameHeight="494"/>
+	<SubTexture name="vMic_right0011" x="568" y="986" width="568" height="492" frameX="0" frameY="-2" frameWidth="568" frameHeight="494"/>
+	<SubTexture name="vMic_right0012" x="568" y="986" width="568" height="492" frameX="0" frameY="-2" frameWidth="568" frameHeight="494"/>
+	<SubTexture name="vMic_right0013" x="568" y="986" width="568" height="492" frameX="0" frameY="-2" frameWidth="568" frameHeight="494"/>
+	<SubTexture name="vMic_throw0000" x="1136" y="986" width="568" height="492" frameX="0" frameY="-16" frameWidth="798" frameHeight="712"/>
+	<SubTexture name="vMic_throw0001" x="1136" y="986" width="568" height="492" frameX="0" frameY="-16" frameWidth="798" frameHeight="712"/>
+	<SubTexture name="vMic_throw0002" x="1136" y="986" width="568" height="492" frameX="0" frameY="-16" frameWidth="798" frameHeight="712"/>
+	<SubTexture name="vMic_throw0003" x="1136" y="986" width="568" height="492" frameX="0" frameY="-16" frameWidth="798" frameHeight="712"/>
+	<SubTexture name="vMic_throw0004" x="1136" y="986" width="568" height="492" frameX="0" frameY="-16" frameWidth="798" frameHeight="712"/>
+	<SubTexture name="vMic_throw0005" x="1136" y="986" width="568" height="492" frameX="0" frameY="-16" frameWidth="798" frameHeight="712"/>
+	<SubTexture name="vMic_throw0006" x="1136" y="986" width="568" height="492" frameX="0" frameY="-16" frameWidth="798" frameHeight="712"/>
+	<SubTexture name="vMic_throw0007" x="1136" y="986" width="568" height="492" frameX="0" frameY="-16" frameWidth="798" frameHeight="712"/>
+	<SubTexture name="vMic_throw0008" x="1136" y="986" width="568" height="492" frameX="0" frameY="-16" frameWidth="798" frameHeight="712"/>
+	<SubTexture name="vMic_throw0009" x="1136" y="986" width="568" height="492" frameX="0" frameY="-16" frameWidth="798" frameHeight="712"/>
+	<SubTexture name="vMic_throw0010" x="1136" y="986" width="568" height="492" frameX="0" frameY="-16" frameWidth="798" frameHeight="712"/>
+	<SubTexture name="vMic_throw0011" x="1136" y="986" width="568" height="492" frameX="0" frameY="-16" frameWidth="798" frameHeight="712"/>
+	<SubTexture name="vMic_throw0012" x="1136" y="986" width="568" height="492" frameX="0" frameY="-16" frameWidth="798" frameHeight="712"/>
+	<SubTexture name="vMic_throw0013" x="1704" y="986" width="568" height="492" frameX="0" frameY="-16" frameWidth="798" frameHeight="712"/>
+	<SubTexture name="vMic_throw0014" x="1704" y="986" width="568" height="492" frameX="0" frameY="-16" frameWidth="798" frameHeight="712"/>
+	<SubTexture name="vMic_throw0015" x="2272" y="986" width="568" height="492" frameX="0" frameY="-16" frameWidth="798" frameHeight="712"/>
+	<SubTexture name="vMic_throw0016" x="2272" y="986" width="568" height="492" frameX="0" frameY="-16" frameWidth="798" frameHeight="712"/>
+	<SubTexture name="vMic_throw0017" x="2840" y="986" width="568" height="492" frameX="0" frameY="-16" frameWidth="798" frameHeight="712"/>
+	<SubTexture name="vMic_throw0018" x="3408" y="986" width="656" height="492" frameX="0" frameY="-16" frameWidth="798" frameHeight="712"/>
+	<SubTexture name="vMic_throw0019" x="0" y="1480" width="798" height="496" frameX="0" frameY="-12" frameWidth="798" frameHeight="712"/>
+	<SubTexture name="vMic_throw0020" x="798" y="1480" width="784" height="508" frameX="0" frameY="0" frameWidth="798" frameHeight="712"/>
+	<SubTexture name="vMic_throw0021" x="1582" y="1480" width="737" height="492" frameX="0" frameY="-16" frameWidth="798" frameHeight="712"/>
+	<SubTexture name="vMic_throw0022" x="2319" y="1480" width="737" height="492" frameX="0" frameY="-16" frameWidth="798" frameHeight="712"/>
+	<SubTexture name="vMic_throw0023" x="3056" y="1480" width="715" height="492" frameX="0" frameY="-16" frameWidth="798" frameHeight="712"/>
+	<SubTexture name="vMic_throw0024" x="0" y="1988" width="715" height="492" frameX="0" frameY="-16" frameWidth="798" frameHeight="712"/>
+	<SubTexture name="vMic_throw0025" x="715" y="1988" width="695" height="492" frameX="0" frameY="-16" frameWidth="798" frameHeight="712"/>
+	<SubTexture name="vMic_throw0026" x="1410" y="1988" width="695" height="492" frameX="0" frameY="-16" frameWidth="798" frameHeight="712"/>
+	<SubTexture name="vMic_throw0027" x="2105" y="1988" width="696" height="492" frameX="0" frameY="-16" frameWidth="798" frameHeight="712"/>
+	<SubTexture name="vMic_throw0028" x="2801" y="1988" width="696" height="492" frameX="0" frameY="-16" frameWidth="798" frameHeight="712"/>
+	<SubTexture name="vMic_throw0029" x="0" y="2480" width="680" height="492" frameX="0" frameY="-16" frameWidth="798" frameHeight="712"/>
+	<SubTexture name="vMic_throw0030" x="680" y="2480" width="680" height="492" frameX="0" frameY="-16" frameWidth="798" frameHeight="712"/>
+	<SubTexture name="vMic_throw0031" x="1360" y="2480" width="680" height="696" frameX="0" frameY="-16" frameWidth="798" frameHeight="712"/>
+	<SubTexture name="vMic_throw0032" x="1360" y="2480" width="680" height="696" frameX="0" frameY="-16" frameWidth="798" frameHeight="712"/>
+	<SubTexture name="vMic_up0000" x="2040" y="2480" width="568" height="492"/>
+	<SubTexture name="vMic_up0001" x="2040" y="2480" width="568" height="492"/>
+	<SubTexture name="vMic_up0002" x="2608" y="2480" width="568" height="492"/>
+	<SubTexture name="vMic_up0003" x="2608" y="2480" width="568" height="492"/>
+	<SubTexture name="vMic_up0004" x="2608" y="2480" width="568" height="492"/>
+	<SubTexture name="vMic_up0005" x="2608" y="2480" width="568" height="492"/>
+	<SubTexture name="vMic_up0006" x="2608" y="2480" width="568" height="492"/>
+	<SubTexture name="vMic_up0007" x="2608" y="2480" width="568" height="492"/>
+	<SubTexture name="vMic_up0008" x="2608" y="2480" width="568" height="492"/>
+	<SubTexture name="vMic_up0009" x="2608" y="2480" width="568" height="492"/>
+	<SubTexture name="vMic_up0010" x="2608" y="2480" width="568" height="492"/>
+	<SubTexture name="vMic_up0011" x="2608" y="2480" width="568" height="492"/>
+	<SubTexture name="vMic_up0012" x="2608" y="2480" width="568" height="492"/>
+	<SubTexture name="vMic_up0013" x="2608" y="2480" width="568" height="492"/>
+</TextureAtlas>
